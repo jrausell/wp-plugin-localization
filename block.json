@@ -5,5 +5,5 @@
    "category": "layout",
    "textdomain": "my-block",
    "icon": "universal-access-alt",
-   "editorScript": "file:build/index.js"
+   "editorScript": "file:./build/index.js"
 }
