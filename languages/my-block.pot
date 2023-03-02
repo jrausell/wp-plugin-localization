@@ -1,0 +1,56 @@
+# Copyright (C) 2023 Test
+# This file is distributed under the same license as the Test Localization Plugin plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Localization Plugin 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/my-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-02T09:46:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: my-block\n"
+
+#. Plugin Name of the plugin
+msgid "Test Localization Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin Localization Test."
+msgstr ""
+
+#. Author of the plugin
+msgid "Test"
+msgstr ""
+
+#: loc.php:45
+msgid "Test Setting Page Title"
+msgstr ""
+
+#: loc.php:46
+msgid "Test Setting Page Menu"
+msgstr ""
+
+#: loc.php:59
+msgid "My Plugin Title"
+msgstr ""
+
+#: build/index.js:125
+#: build/index.js:61
+msgid "Test Block Loc"
+msgstr ""
+
+#: build/index.js:127
+#: build/index.js:130
+#: build/index.js:63
+#: build/index.js:66
+msgid "Hello world"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "Test Gutenberg Block Title"
+msgstr ""

@@ -1,0 +1,9 @@
+{
+   "apiVersion": 2,
+   "title": "Test Gutenberg Block Title",
+   "name": "my-block/local",
+   "category": "layout",
+   "textdomain": "my-block",
+   "icon": "universal-access-alt",
+   "editorScript": "file:build/index.js"
+}
